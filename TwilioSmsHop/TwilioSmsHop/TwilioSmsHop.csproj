@@ -5,7 +5,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 	<CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
     <RepositoryUrl>https://github.com/timg456789/TwilioSmsHop</RepositoryUrl>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
   <ItemGroup>
