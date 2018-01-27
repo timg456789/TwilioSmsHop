@@ -1,10 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <TargetFrameworks>netcoreapp2.0;net47</TargetFrameworks>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 	<CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
     <RepositoryUrl>https://github.com/timg456789/TwilioSmsHop</RepositoryUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
